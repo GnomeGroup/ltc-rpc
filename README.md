@@ -1,0 +1,2 @@
+# ltc-rpc
+Litecoin RPC
